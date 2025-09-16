@@ -27,6 +27,7 @@ The player answers multiple-coice questions, and the game tracks the score in re
 Clone the repository and open **index.html** in your browser:
 
 **git clone https://github.com/b24h.quiz-game.git**
+<br/>
 **cd quiz-game**
 
 
